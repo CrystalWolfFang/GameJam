@@ -6,3 +6,5 @@ image_speed = 0;
 draw_set_color(make_color_rgb(255,153,255));
 draw_set_font(buttonFont);
 draw_text(270, 400, "Play");
+toggleChange = false;
+i = 0;
