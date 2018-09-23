@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "3026a190-dcdd-4dd4-8659-1c125fb0c98c",
+            "Value": {
+                "id": "f2287b2e-af61-4d04-a858-4621e0836870",
+                "resourcePath": "sounds\\TitleScreenMusic\\TitleScreenMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "30f3c7a5-70b0-4847-b7e6-c95e4bbf2f19",
             "Value": {
                 "id": "73b3ecb5-a2a9-44bc-a848-4cd5e950156f",
