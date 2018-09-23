@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "18a8d82c-166b-41b3-8435-6f644a0fb67d",
-            "Value": {
-                "id": "1b843438-66b5-46ae-8c63-6441e65146ad",
-                "resourcePath": "objects\\Clickables\\Clickables.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1df738e1-f66d-4060-b9d0-32341d902471",
             "Value": {
                 "id": "0653d286-7c25-41fe-b348-ed882775c4bc",
@@ -60,14 +52,6 @@
                 "id": "4332dbe1-79ac-4e7c-9c89-af9547b874e6",
                 "resourcePath": "views\\1e5fffe3-a5d9-4014-bcd4-ac25038cea77.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "258679f6-ffaf-49d9-83d2-9dc6b5893d72",
-            "Value": {
-                "id": "cd9ed20a-907d-4b6f-b31c-cc51efaf8373",
-                "resourcePath": "objects\\ClickablesSpawner\\ClickablesSpawner.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -211,14 +195,6 @@
             "Value": {
                 "id": "3a9e47a8-c814-4522-bb07-cdb986398dd1",
                 "resourcePath": "sprites\\menuBackground\\menuBackground.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e5750d8b-22a4-4293-ab6f-8b8d0af91131",
-            "Value": {
-                "id": "19da4565-efa6-4143-975c-061a68cedba2",
-                "resourcePath": "sprites\\circle\\circle.yy",
                 "resourceType": "GMSprite"
             }
         },
