@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "d0af9d52-99fa-47e4-b291-6ed104be233a",
+            "Value": {
+                "id": "656824a0-31d4-4788-a502-892f24809dbf",
+                "resourcePath": "objects\\exitButton\\exitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "daedf6e4-69b9-4d37-a556-ee65a3c9a397",
             "Value": {
                 "id": "3a9e47a8-c814-4522-bb07-cdb986398dd1",
